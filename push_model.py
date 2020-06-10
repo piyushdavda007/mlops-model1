@@ -4,7 +4,7 @@ port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
 sender_email = "piyushvdavda@gmail.com"
 receiver_email = "pshdavda@gmail.com"
-password = 'Luckyboy1'
+password = 'Luckyboy11$'
 message = """\
 Subject: Final Model Build 
 
